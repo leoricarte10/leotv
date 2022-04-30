@@ -1,13 +1,5 @@
-#EXTM3U size="Big"
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",CANAIS
-#EXTBG:https://i.imgur.com/JCcgEeo.png
-http://web.tvprodigital.net/ssiptv/get/leoricarte10/skw0g67w/list_lives/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",FILMES
-#EXTBG:https://i.imgur.com/vnPmfhz.png
-http://web.tvprodigital.net/ssiptv/get/leoricarte10/skw0g67w/movie_categories/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",SÉRIES
-#EXTBG:https://i.imgur.com/vJD9S1U.png
-http://web.tvprodigital.net/ssiptv/get/leoricarte10/skw0g67w/serie_categories/
-#EXTINF:0 type="playlist" tvg-logo="https://i.imgur.com/WmsgVaM.png",24 HORAS
-#EXTBG:https://i.imgur.com/5YX6SmJ.png
-http://web.tvprodigital.net/ssiptv/get/leoricarte10/skw0g67w/list_created_channels/
+#EXTM3U size="Medium"
+#EXTINF:-1 type="stream" tvg-id=" 24H Caverna Do Dragão" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="Canais | 24Horas Desenhos ", 24H Caverna Do Dragão
+https://srvd01.vivartec.com.br:8088/hls/channel1.m3u8
+#EXTINF:-1 type="stream" tvg-id=" Comedy Central HD¹" tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/158.png" group-title="Canais | Filmes e Series", Comedy Central HD¹
+https://srvd02.vivartec.com.br:8088/hls/channel2.m3u8
