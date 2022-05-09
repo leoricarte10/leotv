@@ -34,5 +34,9 @@ https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
 https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/playlist.m3u8
 
 
-#EXTINF:0 user-agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" , tv2
-https://imgarena-prod-eu.akamaized.net/hls/live/2023909/318957-240724/exchange318957ISvaM_318957_728/exp=1652069057~acl=%2f*~id=336e90c5-d94d-4579-b3d8-3ff0e021a588~data=hdntl~hmac=5f44a36972a2fcb37ff3b498a26034b902d2ddf4dcce7f784ae01f5012255a4c/chunklist.m3u8
+#EXTINF:-1 type="stream" tvg-id=" Aberto" tvg-logo="" group-title="Canais | Aberto ", BETANO TV
+https://gml-live-secure.akamaized.net/hls/live/2005654/AFA_9103041/AFA_9103041/hdntl=exp=1652145358~acl=%2fhls%2flive%2f2005654%2fAFA_9103041%2f*~id=2b57d304-1cf8-4669-a8b5-6bf0f949a1b1~data=hdntl,GR,CY,BR,RO,PT,DE,BG,CL,CZ,PE~hmac=27a1363a52ac6a742bdb6fef6737bdc26cb1d3ef9cf3bb9a27697365f6b1c6eb/chunklist.m3u8
+
+
+
+
