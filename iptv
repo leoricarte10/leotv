@@ -34,9 +34,46 @@ https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
 https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/playlist.m3u8
 
 
-#EXTINF:-1 type="stream" tvg-id=" Aberto" tvg-logo="" group-title="Canais | Aberto ", BETANO TV
-https://gml-live-secure.akamaized.net/hls/live/2005654/AFA_9103041/AFA_9103041/hdntl=exp=1652145358~acl=%2fhls%2flive%2f2005654%2fAFA_9103041%2f*~id=2b57d304-1cf8-4669-a8b5-6bf0f949a1b1~data=hdntl,GR,CY,BR,RO,PT,DE,BG,CL,CZ,PE~hmac=27a1363a52ac6a742bdb6fef6737bdc26cb1d3ef9cf3bb9a27697365f6b1c6eb/chunklist.m3u8
-
-
-
+#EXTINF:-1 tvg-id="record.bahia.br" tvg-name="RECORD BA HD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD BA HD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97133
+#EXTINF:-1 tvg-id="recordtv.belem.br" tvg-name="RECORD BELEM HD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD BELEM HD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97134
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD BRASILIA HD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD BRASILIA HD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97135
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD ES SD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD ES SD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97136
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD  FHD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD  FHD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97137
+#EXTINF:-1 tvg-id="RecordTV Goiás" tvg-name="RECORD GOIASHD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD GOIASHD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97138
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD HD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD HD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97139
+#EXTINF:-1 tvg-id="RecordTV Itapoan" tvg-name="RECORD ITAPOAN HD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD ITAPOAN HD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97140
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD MANAUS HD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD MANAUS HD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97141
+#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS HD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD MINAS HD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97142
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News FHD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Noticia",Record News FHD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97143
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News HD¹" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Noticia",Record News HD¹
+http://propdsrv.com:80/lricarte2019/su91fs1w/6941
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News SD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Noticia",Record News SD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97144
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="Record News SD¹" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Noticia",Record News SD¹
+http://propdsrv.com:80/lricarte2019/su91fs1w/30707
+#EXTINF:-1 tvg-id="record.porto.alegre.br" tvg-name="RECORD PA HD³" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD PA HD³
+http://propdsrv.com:80/lricarte2019/su91fs1w/97145
+#EXTINF:-1 tvg-id="Record TV Rio HD" tvg-name="RECORD RJ HD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD RJ HD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97146
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="RECORD RS HD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD RS HD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97147
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RS SD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD RS SD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/96818
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SC HD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD SC HD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97148
+#EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD SD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD SD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97149
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="RECORD SP HD²" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="Canais | Record",RECORD SP HD²
+http://propdsrv.com:80/lricarte2019/su91fs1w/97152
 
