@@ -1,20 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="LEO TV" tvg-logo="" group-title="Canais | Esportes",Canal 1
 https://5ffab78b24f94.streamlock.net:443/live1/live1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="LEO TV" tvg-logo="" group-title="Canais | Esportes",Canal 2
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LEO TV" tvg-logo="" group-title="Canais | Esportes",Canal 3
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LEO TV" tvg-logo="" group-title="Canais | Esportes",Canal 4
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LEO TV" tvg-logo="" group-title="Canais | Esportes",Canal 5
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LEO TV" tvg-logo="" group-title="Canais | Esportes",Canal 6
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LEO TV" tvg-logo="" group-title="Canais | Esportes",Canal 7
+#EXTINF:-1 type="stream" tvg-id=" Esporte" tvg-logo="" group-title="Canais | Esportes ", Aposta ganha Futebol 1
+https://srvd01.vivartec.com.br:8088/hls/channel1.m3u8
+#EXTINF:-1 type="stream" tvg-id=" Esporte" tvg-logo="" group-title="Canais | Esportes ", Aposta ganha Futebol 2
+https://srvd02.vivartec.com.br:8088/hls/channel2.m3u8
+#EXTINF:-1 type="stream" tvg-id=" Esporte" tvg-logo="" group-title="Canais | Esportes ", Aposta ganha Futebol 3
+https://srvd03.vivartec.com.br:8088/hls/channel3.m3u8
+#EXTINF:-1 type="stream" tvg-id=" Esporte" tvg-logo="" group-title="Canais | Esportes ", Aposta ganha Futebol 4
+https://srvd04.vivartec.com.br:8088/hls/channel4.m3u8
+#EXTINF:-1 type="stream" tvg-id=" Esporte" tvg-logo="" group-title="Canais | Esportes ", Aposta ganha Futebol 5
+https://5ffab78b24f94.streamlock.net:443/live5/live5/playlist.m3u8
+#EXTINF:-1 type="stream" tvg-id=" Esporte" tvg-logo="" group-title="Canais | Esportes ", Band
+https://evpp.mm.uol.com.br/geob_band/band/chunklist_w1891429850.m3u8
+#EXTINF:-1 type="stream" tvg-id=" Esporte" tvg-logo="" group-title="Canais | Esportes ", Record MT
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+#EXTINF:-1 type="stream" tvg-id=" Esporte" tvg-logo="" group-title="Canais | Esportes ", WEB TV CINE
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
+#EXTINF:-1 type="stream" tvg-id=" Esporte" tvg-logo="" group-title="Canais | Esportes ", TV Jornal do Nordeste
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1914371444.m3u8
+#EXTINF:-1 type="stream" tvg-id=" Esporte" tvg-logo="" group-title="Canais | Esportes ", Globo CE
+https://live-cm-al-10-38.video.globo.com/d/s/hls-globo-ce2/hls-globo-ce2_1573/playlist.m3u8
