@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] 3 Palavrinhas
-https://lc-live-http-vie-ipv4-p.hs.llnwd.net/e1/lt/limelight/3034015/mobile-vienna/token=p=83~e=1674668950~ip=186.249.84.42~cid=27877~mid=34169251~ecid=3034015~pid=2~dtid=1~sid=843255017839~gc=BeA~gsd=BPc~grm=1~h=bdc454239ab0120268867687967b1b24/soccer_germany_bundesliga_3034015_new_512k.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] LEO TV
+http://192.168.1.102:8080
