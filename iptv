@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="Canais | 24 Horas",[24H] LEO TV
-http://192.168.1.102:8080
+http://192.168.18.17:8080
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" group-title="Canais | 4K",SPORTV 4K
 http://uniplay.link:80/439238948/371068mc/284576
